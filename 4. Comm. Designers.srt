@@ -1,0 +1,1105 @@
+﻿1
+00:00:02,960 --> 00:00:06,923
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+2
+00:01:21,998 --> 00:01:25,960
+ALAN LEE
+Conceptual Designer
+
+3
+00:01:47,440 --> 00:01:51,402
+GRANT MAJOR
+Production Designer
+
+4
+00:01:59,368 --> 00:02:03,331
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+5
+00:02:32,234 --> 00:02:36,238
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+6
+00:03:08,479 --> 00:03:12,441
+JOHN HOWE
+Conceptual Designer
+
+7
+00:03:44,056 --> 00:03:48,018
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+8
+00:04:52,291 --> 00:04:56,253
+JOHN HOWE
+Conceptual Designer
+
+9
+00:05:15,689 --> 00:05:19,652
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+10
+00:06:25,759 --> 00:06:29,722
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+11
+00:06:50,534 --> 00:06:54,496
+GRANT MAJOR
+Production Designer
+
+12
+00:07:43,212 --> 00:07:47,132
+JOHN HOWE
+Conceptual Designer
+
+13
+00:08:52,364 --> 00:08:56,326
+ALAN LEE
+Conceptual Designer
+
+14
+00:10:17,658 --> 00:10:21,620
+GRANT MAJOR
+Production Designer
+
+15
+00:13:32,644 --> 00:13:36,606
+JOHN HOWE
+Conceptual Designer
+
+16
+00:13:46,616 --> 00:13:50,579
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+17
+00:14:34,623 --> 00:14:38,585
+ALAN LEE
+Conceptual Designer
+
+18
+00:15:40,730 --> 00:15:44,693
+JOHN HOWE
+Conceptual Designer
+
+19
+00:19:27,540 --> 00:19:31,503
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+20
+00:19:56,986 --> 00:19:58,238
+JOHN HOWE
+Conceptual Designer
+
+21
+00:22:03,738 --> 00:22:07,700
+GRANT MAJOR
+Production Designer
+
+22
+00:22:30,890 --> 00:22:34,853
+NGILA DICKSON
+Costume Designer
+
+23
+00:22:51,661 --> 00:22:55,623
+GRANT MAJOR
+Production Designer
+
+24
+00:23:13,224 --> 00:23:17,186
+NGILA DICKSON
+Costume Designer
+
+25
+00:23:52,555 --> 00:23:56,517
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+26
+00:24:09,948 --> 00:24:13,910
+TANIA RODGER
+Weta Workshop Manager
+
+27
+00:24:27,090 --> 00:24:30,885
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+28
+00:24:33,054 --> 00:24:37,016
+TANIA RODGER
+Weta Workshop Manager
+
+29
+00:24:53,449 --> 00:24:57,412
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+30
+00:25:57,221 --> 00:26:01,184
+GRANT MAJOR
+Production Designer
+
+31
+00:28:39,258 --> 00:28:43,179
+TANIA RODGER
+Weta Workshop Manager
+
+32
+00:28:50,978 --> 00:28:54,899
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+33
+00:29:03,032 --> 00:29:06,953
+GRANT MAJOR
+Production Designer
+
+34
+00:29:12,375 --> 00:29:16,295
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+35
+00:30:06,429 --> 00:30:10,391
+GRANT MAJOR
+Production Designer
+
+36
+00:31:11,035 --> 00:31:14,997
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+37
+00:32:13,722 --> 00:32:17,685
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+38
+00:33:31,258 --> 00:33:35,221
+TANIA RODGER
+Weta Workshop Manager
+
+39
+00:33:47,608 --> 00:33:51,570
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+40
+00:34:00,955 --> 00:34:04,917
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+41
+00:35:44,016 --> 00:35:47,978
+GRANT MAJOR
+Production Designer
+
+42
+00:36:05,913 --> 00:36:09,875
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+43
+00:36:18,926 --> 00:36:22,888
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+44
+00:38:33,185 --> 00:38:37,147
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+45
+00:39:09,054 --> 00:39:12,975
+GRANT MAJOR
+Production Designer
+
+46
+00:40:16,246 --> 00:40:20,208
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+47
+00:40:51,406 --> 00:40:55,369
+GRANT MAJOR
+Production Designer
+
+48
+00:41:49,589 --> 00:41:53,552
+JOHN HOWE
+Conceptual Designer
+
+49
+00:42:21,455 --> 00:42:25,417
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+50
+00:43:19,179 --> 00:43:23,141
+GRANT MAJOR
+Production Designer
+
+51
+00:44:29,958 --> 00:44:33,920
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+52
+00:44:55,483 --> 00:44:59,446
+GRANT MAJOR
+Production Designer
+
+53
+00:46:06,805 --> 00:46:10,767
+JOHN HOWE
+Conceptual Designer
+
+54
+00:48:11,388 --> 00:48:15,350
+ALAN LEE
+Conceptual Designer
+
+55
+00:51:11,651 --> 00:51:15,613
+JOHN HOWE
+Conceptual Designer
+
+56
+00:52:22,513 --> 00:52:26,476
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+57
+00:52:55,380 --> 00:52:59,342
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+58
+00:53:53,479 --> 00:53:57,442
+NGILA DICKSON
+Costume Designer
+
+59
+00:57:30,112 --> 00:57:34,075
+ALAN LEE
+Conceptual Designer
+
+60
+00:58:51,027 --> 00:58:54,989
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+61
+00:59:26,687 --> 00:59:30,608
+ALAN LEE
+Conceptual Designer
+
+62
+01:00:31,252 --> 01:00:35,172
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+63
+01:02:04,136 --> 01:02:08,098
+GRANT MAJOR
+Production Designer
+
+64
+01:02:44,009 --> 01:02:47,972
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+65
+01:03:29,805 --> 01:03:31,181
+JOHN HOWE
+Conceptual Designer
+
+66
+01:05:05,150 --> 01:05:09,113
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+67
+01:07:31,088 --> 01:07:35,050
+GRANT MAJOR
+Production Designer
+
+68
+01:10:38,692 --> 01:10:42,612
+ALAN LEE
+Conceptual Designer
+
+69
+01:10:50,036 --> 01:10:53,957
+JOHN HOWE
+Conceptual Designer
+
+70
+01:11:24,863 --> 01:11:28,825
+ALAN LEE
+Conceptual Designer
+
+71
+01:13:28,111 --> 01:13:32,073
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+72
+01:13:58,850 --> 01:14:02,812
+GRANT MAJOR
+Production Designer
+
+73
+01:15:15,427 --> 01:15:19,389
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+74
+01:16:56,444 --> 01:17:00,406
+GRANT MAJOR
+Production Designer
+
+75
+01:17:14,045 --> 01:17:18,007
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+76
+01:17:46,619 --> 01:17:50,456
+GRANT MAJOR
+Production Designer
+
+77
+01:18:17,442 --> 01:18:21,404
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+78
+01:18:40,340 --> 01:18:44,302
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+79
+01:18:52,560 --> 01:18:56,522
+NGILA DICKSON
+Costume Designer
+
+80
+01:22:11,843 --> 01:22:15,805
+GRANT MAJOR
+Production Designer
+
+81
+01:22:44,041 --> 01:22:48,004
+JOHN HOWE
+Conceptual Designer
+
+82
+01:23:23,331 --> 01:23:27,293
+NGILA DICKSON
+Costume Designer
+
+83
+01:24:02,078 --> 01:24:06,040
+GRANT MAJOR
+Production Designer
+
+84
+01:25:26,203 --> 01:25:30,166
+ALAN LEE
+Conceptual Designer
+
+85
+01:25:52,730 --> 01:25:56,692
+TANIA RODGER
+Weta Workshop Manager
+
+86
+01:25:57,860 --> 01:26:01,822
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+87
+01:26:17,380 --> 01:26:21,342
+GRANT MAJOR
+Production Designer
+
+88
+01:28:01,984 --> 01:28:05,946
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+89
+01:28:27,927 --> 01:28:31,889
+ALAN LEE
+Conceptual Designer
+
+90
+01:32:16,321 --> 01:32:20,284
+GRANT MAJOR
+Production Designer
+
+91
+01:32:25,456 --> 01:32:29,418
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+92
+01:32:40,679 --> 01:32:44,641
+JOHN HOWE
+Conceptual Designer
+
+93
+01:33:25,808 --> 01:33:29,770
+GRANT MAJOR
+Production Designer
+
+94
+01:33:45,744 --> 01:33:49,706
+ALAN LEE
+Conceptual Designer
+
+95
+01:34:46,972 --> 01:34:50,934
+JOHN HOWE
+Conceptual Designer
+
+96
+01:35:10,370 --> 01:35:14,333
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+97
+01:35:55,999 --> 01:35:59,962
+TANIA RODGER
+Weta Workshop Manager
+
+98
+01:36:01,213 --> 01:36:05,175
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+99
+01:36:43,588 --> 01:36:47,551
+NGILA DICKSON
+Costume Designer
+
+100
+01:37:36,641 --> 01:37:40,604
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+101
+01:38:33,532 --> 01:38:37,494
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+102
+01:39:14,739 --> 01:39:18,702
+JOHN HOWE
+Conceptual Designer
+
+103
+01:40:14,966 --> 01:40:18,929
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+104
+01:40:40,367 --> 01:40:44,329
+JOHN HOWE
+Conceptual Designer
+
+105
+01:43:20,068 --> 01:43:24,030
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+106
+01:44:28,178 --> 01:44:32,140
+CHRIS HENNAH
+Art Department Manager
+
+107
+01:44:40,398 --> 01:44:44,360
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+108
+01:45:19,062 --> 01:45:23,024
+CHRIS HENNAH
+Art Department Manager
+
+109
+01:45:24,901 --> 01:45:28,863
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+110
+01:45:38,858 --> 01:45:42,820
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+111
+01:45:53,122 --> 01:45:57,084
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+112
+01:46:16,520 --> 01:46:20,483
+CHRIS HENNAH
+Art Department Manager
+
+113
+01:46:24,528 --> 01:46:28,491
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+114
+01:46:34,747 --> 01:46:38,709
+CHRIS HENNAH
+Art Department Manager
+
+115
+01:46:53,182 --> 01:46:57,144
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+116
+01:47:24,839 --> 01:47:28,801
+JOHN HOWE
+Conceptual Designer
+
+117
+01:47:54,869 --> 01:47:58,831
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+118
+01:48:25,816 --> 01:48:29,487
+TANIA RODGER
+Weta Workshop Manager
+
+119
+01:48:30,112 --> 01:48:34,075
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+120
+01:49:29,547 --> 01:49:33,509
+NGILA DICKSON
+Costume Designer
+
+121
+01:50:19,138 --> 01:50:23,100
+JOHN HOWE
+Conceptual Designer
+
+122
+01:52:32,104 --> 01:52:36,025
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+123
+01:52:56,587 --> 01:52:58,714
+GRANT MAJOR
+Production Designer
+
+124
+01:53:32,206 --> 01:53:36,168
+JOHN HOWE
+Conceptual Designer
+
+125
+01:53:57,773 --> 01:54:01,735
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+126
+01:54:20,838 --> 01:54:24,800
+TANIA RODGER
+Weta Workshop Manager
+
+127
+01:54:25,926 --> 01:54:29,888
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+128
+01:55:02,504 --> 01:55:06,467
+JOHN HOWE
+Conceptual Designer
+
+129
+01:55:19,813 --> 01:55:23,775
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+130
+01:56:12,282 --> 01:56:16,245
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+131
+01:56:42,896 --> 01:56:46,858
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+132
+01:57:26,565 --> 01:57:30,527
+TANIA RODGER
+Weta Workshop Manager
+
+133
+01:57:47,377 --> 01:57:51,340
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+134
+01:58:44,184 --> 01:58:48,146
+GRANT MAJOR
+Production Designer
+
+135
+02:00:40,217 --> 02:00:44,179
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+136
+02:01:04,199 --> 02:01:08,161
+GRANT MAJOR
+Production Designer
+
+137
+02:03:05,737 --> 02:03:09,658
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+138
+02:04:49,966 --> 02:04:53,928
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+139
+02:05:33,593 --> 02:05:37,555
+GRANT MAJOR
+Production Designer
+
+140
+02:08:08,206 --> 02:08:12,168
+JOHN HOWE
+Conceptual Designer
+
+141
+02:08:33,731 --> 02:08:37,694
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+142
+02:08:58,673 --> 02:08:59,882
+CHRIS HENNAH
+Art Department Manager
+
+143
+02:09:03,803 --> 02:09:07,765
+TANIA RODGER
+Weta Workshop Manager
+
+144
+02:09:14,188 --> 02:09:18,151
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+145
+02:10:40,858 --> 02:10:44,195
+GRANT MAJOR
+Production Designer
+
+146
+02:12:12,783 --> 02:12:16,746
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+147
+02:12:35,765 --> 02:12:39,685
+GRANT MAJOR
+Production Designer
+
+148
+02:14:03,185 --> 02:14:07,148
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+149
+02:14:10,860 --> 02:14:14,822
+CHRIS HENNAH
+Art Department Manager
+
+150
+02:14:21,245 --> 02:14:25,207
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+151
+02:14:32,423 --> 02:14:36,385
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+152
+02:15:01,035 --> 02:15:04,997
+JOHN HOWE
+Conceptual Designer
+
+153
+02:17:06,160 --> 02:17:10,122
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+154
+02:18:41,463 --> 02:18:45,426
+GRANT MAJOR
+Production Designer
+
+155
+02:19:51,325 --> 02:19:55,287
+NGILA DICKSON
+Costume Designer
+
+156
+02:20:33,283 --> 02:20:37,246
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+157
+02:22:12,341 --> 02:22:16,303
+GRANT MAJOR
+Production Designer
+
+158
+02:22:50,087 --> 02:22:54,049
+ALAN LEE
+Conceptual Designer
+
+159
+02:24:45,202 --> 02:24:49,164
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+160
+02:25:00,592 --> 02:25:04,554
+JOHN HOWE
+Conceptual Designer
+
+161
+02:25:53,437 --> 02:25:57,399
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+162
+02:27:06,635 --> 02:27:10,597
+GRANT MAJOR
+Production Designer
+
+163
+02:27:48,343 --> 02:27:52,305
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+164
+02:28:22,669 --> 02:28:26,631
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+165
+02:31:03,955 --> 02:31:07,917
+NGILA DICKSON
+Costume Designer
+
+166
+02:33:24,888 --> 02:33:28,808
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+167
+02:35:13,329 --> 02:35:17,292
+GRANT MAJOR
+Production Designer
+
+168
+02:36:54,722 --> 02:36:58,685
+ALAN LEE
+Conceptual Designer
+
+169
+02:38:43,539 --> 02:38:47,502
+GRANT MAJOR
+Production Designer
+
+170
+02:39:09,774 --> 02:39:13,778
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+171
+02:40:37,486 --> 02:40:41,449
+ALAN LEE
+Conceptual Designer
+
+172
+02:42:42,111 --> 02:42:46,073
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+173
+02:43:13,184 --> 02:43:14,810
+CHRIS HENNAH
+Art Department Manager
+
+174
+02:43:22,360 --> 02:43:26,322
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+175
+02:45:32,781 --> 02:45:36,744
+JOHN HOWE
+Conceptual Designer
+
+176
+02:45:57,598 --> 02:46:01,560
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+177
+02:47:15,175 --> 02:47:19,138
+JOHN HOWE
+Conceptual Designer
+
+178
+02:47:39,033 --> 02:47:42,995
+NGILA DICKSON
+Costume Designer
+
+179
+02:48:29,291 --> 02:48:33,253
+GRANT MAJOR
+Production Designer
+
+180
+02:49:04,493 --> 02:49:08,455
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+181
+02:49:24,805 --> 02:49:28,767
+NGILA DICKSON
+Costume Designer
+
+182
+02:51:41,108 --> 02:51:45,070
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+183
+02:52:45,047 --> 02:52:49,009
+CHRIS HENNAH
+Art Department Manager
+
+184
+02:52:55,891 --> 02:52:59,853
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+185
+02:53:43,188 --> 02:53:47,150
+GRANT MAJOR
+Production Designer
+
+186
+02:56:46,413 --> 02:56:50,375
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+187
+02:58:25,595 --> 02:58:29,557
+GRANT MAJOR
+Production Designer
+
+188
+02:59:06,678 --> 02:59:10,640
+JOHN HOWE
+Conceptual Designer
+
+189
+02:59:40,795 --> 02:59:44,758
+GRANT MAJOR
+Production Designer
+
+190
+03:00:03,276 --> 03:00:07,238
+ALAN LEE
+Conceptual Designer
+
+191
+03:04:25,580 --> 03:04:29,542
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+192
+03:04:52,857 --> 03:04:56,778
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+193
+03:05:57,797 --> 03:06:01,759
+JOHN HOWE
+Conceptual Designer
+
+194
+03:06:38,796 --> 03:06:42,759
+TANIA RODGER
+Weta Workshop Manager
+
+195
+03:06:54,103 --> 03:06:58,065
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+196
+03:08:13,391 --> 03:08:17,353
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+197
+03:08:27,864 --> 03:08:31,826
+CHRIS HENNAH
+Art Department Manager
+
+198
+03:08:34,370 --> 03:08:38,332
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+199
+03:08:41,460 --> 03:08:45,423
+CHRIS HENNAH
+Art Department Manager
+
+200
+03:08:50,636 --> 03:08:54,599
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+201
+03:09:07,987 --> 03:09:11,949
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+202
+03:10:28,359 --> 03:10:32,363
+JOHN HOWE
+Conceptual Designer
+
+203
+03:15:56,854 --> 03:16:00,774
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+204
+03:17:03,212 --> 03:17:05,589
+CHRIS HENNAH
+Art Department Manager
+
+205
+03:17:05,798 --> 03:17:09,760
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+206
+03:17:18,519 --> 03:17:22,481
+CHRIS HENNAH
+Art Department Manager
+
+207
+03:17:25,984 --> 03:17:29,947
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+208
+03:17:53,137 --> 03:17:57,099
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+209
+03:19:39,701 --> 03:19:43,664
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+210
+03:19:50,128 --> 03:19:54,091
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
+211
+03:20:27,165 --> 03:20:31,128
+GRANT MAJOR
+Production Designer
+
+212
+03:21:16,757 --> 03:21:20,719
+DAN HENNAH
+Supervising Art Director/Set Decorator
+
+213
+03:21:59,591 --> 03:22:03,553
+CHRIS HENNAH
+Art Department Manager
+
+214
+03:22:36,002 --> 03:22:39,965
+NGILA DICKSON
+Costume Designer
+
+215
+03:23:09,494 --> 03:23:13,457
+GRANT MAJOR
+Production Designer
+
+216
+03:23:36,062 --> 03:23:40,025
+ALAN LEE
+Conceptual Designer
+
+217
+03:24:13,266 --> 03:24:17,229
+NGILA DICKSON
+Costume Designer
+
+218
+03:25:22,752 --> 03:25:26,715
+ALAN LEE
+Conceptual Designer
+
+219
+03:26:06,338 --> 03:26:10,258
+JOHN HOWE
+Conceptual Designer
+
+220
+03:27:06,898 --> 03:27:10,860
+TANIA RODGER
+Weta Workshop Manager
+
+221
+03:27:25,166 --> 03:27:29,129
+RICHARD TAYLOR
+Weta Workshop Creative Supervisor
+
