@@ -18,17 +18,17 @@ If you just want a temporary solution, you can search in your media player, in t
 
 Thanks to genekellyjr/LOTR-Subs for the instructions.
 
-Before you start, these are the instructions for the 1080p Blu-ray. The insttructions for the 4k edition and the 1080p remastered (which is a downscaled 4k version), may be diferrent.
+Before you start, these are the instructions for the 1080p Blu-ray. The instructions for the 4K edition and the 1080p remastered (which is a downscaled 4K version) may be different.
 
 ### The Fellowship of the Ring Extended Edition
 
-The 1080p version of FOTR released has an incorrect color througth the whole film. You can watch it perfectly fine, but the colors arent as they should.
+The 1080p version of FOTR released has an incorrect color throughout the whole film. You can watch it perfectly fine, but the colors aren't as they should be.
 
 Per 44rh1n @ https://originaltrilogy.com/topic/44rh1ns-The-Fellowship-of-the-Ring-Extended-Edition-Color-Restoration-Released/id/61952:
 
 > Both the official Blu-ray and Digital-HD releases are affected. Not only does this new master suffer from an ugly green tint throughout the entire course of the film, but it lacks important visual details in the bright highlight and dark shadow areas as well. In addition to these problems, it appears that the original color timing, in many instances, has actually been completely tossed aside; in several areas there are stray power windows (masks used in the color grading process to select certain areas of the frame), and the lack of HSL qualifications (custom selections of specific hue, saturation, and luminance values) that result in a muddier color grade than the original DVD release.
 
-Because of this, its best to acquire a color corrected version of this film, the most complete being 44rh1n's "The Fellowship of the Ring" Extended Edition Color Restoration. Which can be acquired by contacting 44rh1n or SnooPac on Original Trilogy and providing evidence that you own the film's Blu-ray. To combine it, the V2 version is recommended, since its separated like the original Blu-rays.
+Because of this, it's best to acquire a color-corrected version of this film, the most complete being 44rh1n's "The Fellowship of the Ring" Extended Edition Color Restoration. Which can be acquired by contacting 44rh1n or SnooPac on Original Trilogy and providing evidence that you own the film's Blu-ray. To combine it, the V2 version is recommended, since it's separated like the original Blu-rays.
 
 #### Combine
 
