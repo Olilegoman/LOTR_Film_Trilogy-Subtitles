@@ -1,0 +1,2779 @@
+﻿1
+00:00:03,878 --> 00:00:09,550
+Peter Jackson
+Director/Writer/Producer
+
+2
+00:00:11,719 --> 00:00:12,803
+Fran Walsh
+Writer/Producer
+
+3
+00:00:12,970 --> 00:00:15,181
+Philippa Boyens
+Writer
+
+4
+00:00:15,348 --> 00:00:20,394
+Peter Jackson
+Director/Writer/Producer
+
+5
+00:00:35,117 --> 00:00:36,869
+Fran Walsh
+Writer/Producer
+
+6
+00:00:39,330 --> 00:00:44,335
+Peter Jackson
+Director/Writer/Producer
+
+7
+00:01:00,560 --> 00:01:05,606
+Fran Walsh
+Writer/Producer
+
+8
+00:01:22,039 --> 00:01:27,044
+Peter Jackson
+Director/Writer/Producer
+
+9
+00:01:34,010 --> 00:01:38,556
+Philippa Boyens
+Writer
+
+10
+00:01:38,723 --> 00:01:43,686
+Peter Jackson
+Director/Writer/Producer
+
+11
+00:02:26,437 --> 00:02:31,442
+Fran Walsh
+Writer/Producer
+
+12
+00:02:36,072 --> 00:02:41,077
+Peter Jackson
+Director/Writer/Producer
+
+13
+00:02:56,384 --> 00:02:59,845
+Philippa Boyens
+Writer
+
+14
+00:03:00,221 --> 00:03:04,850
+Peter Jackson
+Director/Writer/Producer
+
+15
+00:04:02,950 --> 00:04:05,035
+Fran Walsh
+Writer/Producer
+
+16
+00:04:05,619 --> 00:04:07,621
+Philippa Boyens
+Writer
+
+17
+00:04:10,499 --> 00:04:15,212
+Peter Jackson
+Director/Writer/Producer
+
+18
+00:04:22,553 --> 00:04:27,558
+Philippa Boyens
+Writer
+
+19
+00:04:30,853 --> 00:04:34,690
+Peter Jackson
+Director/Writer/Producer
+
+20
+00:04:34,857 --> 00:04:36,859
+Philippa Boyens
+Writer
+
+21
+00:04:37,026 --> 00:04:42,031
+Peter Jackson
+Director/Writer/Producer
+
+22
+00:04:53,834 --> 00:04:58,839
+Philippa Boyens
+Writer
+
+23
+00:04:59,799 --> 00:05:04,804
+Peter Jackson
+Director/Writer/Producer
+
+24
+00:05:29,578 --> 00:05:34,583
+Philippa Boyens
+Writer
+
+25
+00:05:43,968 --> 00:05:48,973
+Peter Jackson
+Director/Writer/Producer
+
+26
+00:06:36,812 --> 00:06:39,523
+Fran Walsh
+Writer/Producer
+
+27
+00:06:39,690 --> 00:06:44,695
+Peter Jackson
+Director/Writer/Producer
+
+28
+00:07:09,678 --> 00:07:11,221
+Fran Walsh
+Writer/Producer
+
+29
+00:07:11,388 --> 00:07:13,349
+Philippa Boyens
+Writer
+
+30
+00:07:31,450 --> 00:07:36,038
+Peter Jackson
+Director/Writer/Producer
+
+31
+00:07:50,719 --> 00:07:55,724
+Philippa Boyens
+Writer
+
+32
+00:07:55,891 --> 00:08:00,896
+Peter Jackson
+Director/Writer/Producer
+
+33
+00:09:53,217 --> 00:09:56,845
+Philippa Boyens
+Writer
+
+34
+00:09:57,012 --> 00:10:02,518
+Peter Jackson
+Director/Writer/Producer
+
+35
+00:10:55,112 --> 00:10:58,448
+Philippa Boyens
+Writer
+
+36
+00:10:58,615 --> 00:11:03,579
+Peter Jackson
+Director/Writer/Producer
+
+37
+00:11:38,864 --> 00:11:43,869
+Philippa Boyens
+Writer
+
+38
+00:11:55,464 --> 00:12:00,469
+Fran Walsh
+Writer/Producer
+
+39
+00:12:19,821 --> 00:12:24,826
+Peter Jackson
+Director/Writer/Producer
+
+40
+00:12:58,735 --> 00:13:03,740
+Fran Walsh
+Writer/Producer
+
+41
+00:13:30,934 --> 00:13:34,438
+Philippa Boyens
+Writer
+
+42
+00:13:42,404 --> 00:13:47,409
+Peter Jackson
+Director/Writer/Producer
+
+43
+00:14:00,005 --> 00:14:03,967
+Fran Walsh
+Writer/Producer
+
+44
+00:14:04,134 --> 00:14:06,845
+Peter Jackson
+Director/Writer/Producer
+
+45
+00:14:15,312 --> 00:14:20,317
+Philippa Boyens
+Writer
+
+46
+00:14:24,196 --> 00:14:29,034
+Peter Jackson
+Director/Writer/Producer
+
+47
+00:15:35,851 --> 00:15:41,231
+Philippa Boyens
+Writer
+
+48
+00:15:53,660 --> 00:15:57,789
+Peter Jackson
+Director/Writer/Producer
+
+49
+00:15:57,956 --> 00:16:02,961
+Philippa Boyens
+Writer
+
+50
+00:16:12,220 --> 00:16:17,225
+Peter Jackson
+Director/Writer/Producer
+
+51
+00:16:34,743 --> 00:16:39,748
+Philippa Boyens
+Writer
+
+52
+00:16:40,457 --> 00:16:44,461
+Peter Jackson
+Director/Writer/Producer
+
+53
+00:18:11,506 --> 00:18:13,550
+Philippa Boyens
+Writer
+
+54
+00:18:13,717 --> 00:18:17,429
+Peter Jackson
+Director/Writer/Producer
+
+55
+00:18:59,179 --> 00:19:03,642
+Fran Walsh
+Writer/Producer
+
+56
+00:19:03,808 --> 00:19:08,813
+Peter Jackson
+Director/Writer/Producer
+
+57
+00:19:18,406 --> 00:19:20,241
+Fran Walsh
+Writer/Producer
+
+58
+00:19:21,451 --> 00:19:26,456
+Philippa Boyens
+Writer
+
+59
+00:19:41,262 --> 00:19:42,806
+Fran Walsh
+Writer/Producer
+
+60
+00:19:42,972 --> 00:19:46,935
+Philippa Boyens
+Writer
+
+61
+00:19:47,102 --> 00:19:52,107
+Peter Jackson
+Director/Writer/Producer
+
+62
+00:20:48,496 --> 00:20:49,873
+Philippa Boyens
+Writer
+
+63
+00:20:50,039 --> 00:20:55,003
+Peter Jackson
+Director/Writer/Producer
+
+64
+00:20:59,966 --> 00:21:00,967
+Philippa Boyens
+Writer
+
+65
+00:21:01,134 --> 00:21:04,429
+Peter Jackson
+Director/Writer/Producer
+
+66
+00:21:52,936 --> 00:21:54,979
+Philippa Boyens
+Writer
+
+67
+00:21:55,146 --> 00:22:00,151
+Peter Jackson
+Director/Writer/Producer
+
+68
+00:22:03,238 --> 00:22:05,532
+Fran Walsh
+Writer/Producer
+
+69
+00:22:05,698 --> 00:22:10,662
+Peter Jackson
+Director/Writer/Producer
+
+70
+00:23:04,841 --> 00:23:06,968
+Philippa Boyens
+Writer
+
+71
+00:23:07,135 --> 00:23:12,056
+Peter Jackson
+Director/Writer/Producer
+
+72
+00:24:22,418 --> 00:24:26,172
+Philippa Boyens
+Writer
+
+73
+00:24:27,382 --> 00:24:32,387
+Peter Jackson
+Director/Writer/Producer
+
+74
+00:25:33,322 --> 00:25:38,327
+Fran Walsh
+Writer/Producer
+
+75
+00:25:39,162 --> 00:25:43,249
+Peter Jackson
+Director/Writer/Producer
+
+76
+00:25:43,958 --> 00:25:48,963
+Philippa Boyens
+Writer
+
+77
+00:25:53,468 --> 00:25:57,138
+Fran Walsh
+Writer/Producer
+
+78
+00:25:57,305 --> 00:26:02,310
+Peter Jackson
+Director/Writer/Producer
+
+79
+00:26:05,688 --> 00:26:10,359
+Fran Walsh
+Writer/Producer
+
+80
+00:26:28,753 --> 00:26:31,714
+Philippa Boyens
+Writer
+
+81
+00:26:45,353 --> 00:26:50,358
+Peter Jackson
+Director/Writer/Producer
+
+82
+00:27:03,162 --> 00:27:07,834
+Philippa Boyens
+Writer
+
+83
+00:27:11,671 --> 00:27:16,676
+Peter Jackson
+Director/Writer/Producer
+
+84
+00:27:46,747 --> 00:27:51,752
+Fran Walsh
+Writer/Producer
+
+85
+00:28:03,264 --> 00:28:05,474
+Philippa Boyens
+Writer
+
+86
+00:28:06,100 --> 00:28:11,105
+Peter Jackson
+Director/Writer/Producer
+
+87
+00:29:13,751 --> 00:29:18,756
+Philippa Boyens
+Writer
+
+88
+00:29:20,758 --> 00:29:25,763
+Peter Jackson
+Director/Writer/Producer
+
+89
+00:29:26,055 --> 00:29:31,060
+Philippa Boyens
+Writer
+
+90
+00:29:40,319 --> 00:29:45,116
+Peter Jackson
+Director/Writer/Producer
+
+91
+00:30:02,883 --> 00:30:07,888
+Philippa Boyens
+Writer
+
+92
+00:30:08,931 --> 00:30:13,936
+Peter Jackson
+Director/Writer/Producer
+
+93
+00:30:15,396 --> 00:30:20,401
+Fran Walsh
+Writer/Producer
+
+94
+00:30:38,210 --> 00:30:42,256
+Peter Jackson
+Director/Writer/Producer
+
+95
+00:32:52,720 --> 00:32:54,221
+Fran Walsh
+Writer/Producer
+
+96
+00:33:07,401 --> 00:33:12,406
+Peter Jackson
+Director/Writer/Producer
+
+97
+00:33:17,995 --> 00:33:23,000
+Fran Walsh
+Writer/Producer
+
+98
+00:33:39,517 --> 00:33:41,977
+Peter Jackson
+Director/Writer/Producer
+
+99
+00:33:42,144 --> 00:33:47,107
+Fran Walsh
+Writer/Producer
+
+100
+00:33:55,282 --> 00:33:59,203
+Peter Jackson
+Director/Writer/Producer
+
+101
+00:35:13,694 --> 00:35:18,699
+Philippa Boyens
+Writer
+
+102
+00:35:20,117 --> 00:35:25,122
+Peter Jackson
+Director/Writer/Producer
+
+103
+00:36:02,785 --> 00:36:04,870
+Fran Walsh
+Writer/Producer
+
+104
+00:36:07,915 --> 00:36:12,336
+Peter Jackson
+Director/Writer/Producer
+
+105
+00:36:16,799 --> 00:36:21,553
+Philippa Boyens
+Writer
+
+106
+00:36:33,649 --> 00:36:38,654
+Peter Jackson
+Director/Writer/Producer
+
+107
+00:36:41,281 --> 00:36:45,619
+Fran Walsh
+Writer/Producer
+
+108
+00:36:45,786 --> 00:36:50,749
+Peter Jackson
+Director/Writer/Producer
+
+109
+00:37:08,142 --> 00:37:10,394
+Fran Walsh
+Writer/Producer
+
+110
+00:37:13,564 --> 00:37:18,902
+Peter Jackson
+Director/Writer/Producer
+
+111
+00:37:24,867 --> 00:37:29,872
+Fran Walsh
+Writer/Producer
+
+112
+00:38:01,653 --> 00:38:06,658
+Peter Jackson
+Director/Writer/Producer
+
+113
+00:39:08,303 --> 00:39:13,308
+Fran Walsh
+Writer/Producer
+
+114
+00:39:18,981 --> 00:39:23,986
+Peter Jackson
+Director/Writer/Producer
+
+115
+00:40:34,097 --> 00:40:38,018
+Philippa Boyens
+Writer
+
+116
+00:40:38,852 --> 00:40:43,440
+Peter Jackson
+Director/Writer/Producer
+
+117
+00:41:44,376 --> 00:41:46,920
+Fran Walsh
+Writer/Producer
+
+118
+00:41:48,213 --> 00:41:53,218
+Peter Jackson
+Director/Writer/Producer
+
+119
+00:43:21,139 --> 00:43:26,019
+Philippa Boyens
+Writer
+
+120
+00:43:31,858 --> 00:43:36,863
+Fran Walsh
+Writer/Producer
+
+121
+00:43:37,864 --> 00:43:42,869
+Peter Jackson
+Director/Writer/Producer
+
+122
+00:43:46,706 --> 00:43:51,711
+Philippa Boyens
+Writer
+
+123
+00:43:56,341 --> 00:44:01,346
+Peter Jackson
+Director/Writer/Producer
+
+124
+00:44:13,817 --> 00:44:14,985
+Philippa Boyens
+Writer
+
+125
+00:44:18,488 --> 00:44:23,493
+Peter Jackson
+Director/Writer/Producer
+
+126
+00:44:51,771 --> 00:44:56,776
+Fran Walsh
+Writer/Producer
+
+127
+00:44:58,111 --> 00:45:03,116
+Philippa Boyens
+Writer
+
+128
+00:45:37,525 --> 00:45:42,447
+Peter Jackson
+Director/Writer/Producer
+
+129
+00:46:11,351 --> 00:46:12,852
+Philippa Boyens
+Writer
+
+130
+00:46:13,186 --> 00:46:18,191
+Peter Jackson
+Director/Writer/Producer
+
+131
+00:46:18,400 --> 00:46:19,651
+Philippa Boyens
+Writer
+
+132
+00:46:19,818 --> 00:46:24,739
+Peter Jackson
+Director/Writer/Producer
+
+133
+00:46:54,686 --> 00:46:59,566
+Philippa Boyens
+Writer
+
+134
+00:47:05,155 --> 00:47:09,200
+Peter Jackson
+Director/Writer/Producer
+
+135
+00:47:49,199 --> 00:47:54,204
+Philippa Boyens
+Writer
+
+136
+00:47:55,914 --> 00:48:00,919
+Peter Jackson
+Director/Writer/Producer
+
+137
+00:48:01,753 --> 00:48:06,257
+Philippa Boyens
+Writer
+
+138
+00:48:06,424 --> 00:48:07,759
+Fran Walsh
+Writer/Producer
+
+139
+00:48:07,926 --> 00:48:11,638
+Philippa Boyens
+Writer
+
+140
+00:48:11,805 --> 00:48:16,810
+Peter Jackson
+Director/Writer/Producer
+
+141
+00:48:24,317 --> 00:48:28,655
+Fran Walsh
+Writer/Producer
+
+142
+00:48:59,144 --> 00:49:04,149
+Peter Jackson
+Director/Writer/Producer
+
+143
+00:50:31,361 --> 00:50:36,366
+Philippa Boyens
+Writer
+
+144
+00:50:38,117 --> 00:50:42,497
+Peter Jackson
+Director/Writer/Producer
+
+145
+00:51:32,046 --> 00:51:33,256
+Philippa Boyens
+Writer
+
+146
+00:51:33,590 --> 00:51:38,595
+Peter Jackson
+Director/Writer/Producer
+
+147
+00:51:41,723 --> 00:51:45,852
+Fran Walsh
+Writer/Producer
+
+148
+00:51:46,311 --> 00:51:51,316
+Peter Jackson
+Director/Writer/Producer
+
+149
+00:51:56,988 --> 00:52:01,242
+Fran Walsh
+Writer/Producer
+
+150
+00:52:01,409 --> 00:52:03,578
+Peter Jackson
+Director/Writer/Producer
+
+151
+00:52:10,793 --> 00:52:12,337
+Fran Walsh
+Writer/Producer
+
+152
+00:52:12,503 --> 00:52:13,504
+Peter Jackson
+Director/Writer/Producer
+
+153
+00:52:13,671 --> 00:52:15,131
+Philippa Boyens
+Writer
+
+154
+00:52:18,551 --> 00:52:20,261
+Peter Jackson
+Director/Writer/Producer
+
+155
+00:53:12,939 --> 00:53:17,944
+Philippa Boyens
+Writer
+
+156
+00:53:29,539 --> 00:53:33,626
+Peter Jackson
+Director/Writer/Producer
+
+157
+00:53:50,351 --> 00:53:51,728
+Philippa Boyens
+Writer
+
+158
+00:53:51,894 --> 00:53:54,522
+Peter Jackson
+Director/Writer/Producer
+
+159
+00:54:28,973 --> 00:54:30,266
+Philippa Boyens
+Writer
+
+160
+00:54:30,433 --> 00:54:33,853
+Peter Jackson
+Director/Writer/Producer
+
+161
+00:55:34,038 --> 00:55:36,249
+Fran Walsh
+Writer/Producer
+
+162
+00:55:39,126 --> 00:55:44,131
+Peter Jackson
+Director/Writer/Producer
+
+163
+00:56:23,796 --> 00:56:28,259
+Fran Walsh
+Writer/Producer
+
+164
+00:56:32,346 --> 00:56:36,434
+Peter Jackson
+Director/Writer/Producer
+
+165
+00:57:59,350 --> 00:58:00,851
+Fran Walsh
+Writer/Producer
+
+166
+00:58:01,060 --> 00:58:06,065
+Peter Jackson
+Director/Writer/Producer
+
+167
+00:58:12,363 --> 00:58:13,948
+Philippa Boyens
+Writer
+
+168
+00:58:20,830 --> 00:58:25,835
+Peter Jackson
+Director/Writer/Producer
+
+169
+00:58:58,242 --> 00:59:02,872
+Philippa Boyens
+Writer
+
+170
+00:59:12,298 --> 00:59:17,303
+Peter Jackson
+Director/Writer/Producer
+
+171
+00:59:34,862 --> 00:59:36,739
+Philippa Boyens
+Writer
+
+172
+00:59:36,906 --> 00:59:41,869
+Peter Jackson
+Director/Writer/Producer
+
+173
+01:00:59,280 --> 01:01:03,951
+Philippa Boyens
+Writer
+
+174
+01:01:07,496 --> 01:01:09,748
+Peter Jackson
+Director/Writer/Producer
+
+175
+01:01:18,716 --> 01:01:22,052
+Philippa Boyens
+Writer
+
+176
+01:01:22,219 --> 01:01:27,224
+Peter Jackson
+Director/Writer/Producer
+
+177
+01:02:48,347 --> 01:02:51,433
+Fran Walsh
+Writer/Producer
+
+178
+01:02:55,437 --> 01:03:00,442
+Peter Jackson
+Director/Writer/Producer
+
+179
+01:03:40,566 --> 01:03:45,571
+Philippa Boyens
+Writer
+
+180
+01:04:12,264 --> 01:04:17,269
+Peter Jackson
+Director/Writer/Producer
+
+181
+01:04:50,636 --> 01:04:55,641
+Philippa Boyens
+Writer
+
+182
+01:05:07,152 --> 01:05:12,157
+Peter Jackson
+Director/Writer/Producer
+
+183
+01:06:21,685 --> 01:06:26,148
+Philippa Boyens
+Writer
+
+184
+01:06:26,315 --> 01:06:28,275
+Peter Jackson
+Director/Writer/Producer
+
+185
+01:06:32,237 --> 01:06:37,242
+Philippa Boyens
+Writer
+
+186
+01:06:45,250 --> 01:06:48,253
+Peter Jackson
+Director/Writer/Producer
+
+187
+01:07:42,849 --> 01:07:47,854
+Philippa Boyens
+Writer
+
+188
+01:08:07,499 --> 01:08:12,337
+Peter Jackson
+Director/Writer/Producer
+
+189
+01:08:46,788 --> 01:08:50,125
+Philippa Boyens
+Writer
+
+190
+01:08:50,292 --> 01:08:55,297
+Peter Jackson
+Director/Writer/Producer
+
+191
+01:08:56,548 --> 01:09:01,511
+Philippa Boyens
+Writer
+
+192
+01:09:10,937 --> 01:09:15,651
+Peter Jackson
+Director/Writer/Producer
+
+193
+01:09:23,450 --> 01:09:25,494
+Fran Walsh
+Writer/Producer
+
+194
+01:09:25,661 --> 01:09:29,581
+Peter Jackson
+Director/Writer/Producer
+
+195
+01:09:30,832 --> 01:09:31,833
+Philippa Boyens
+Writer
+
+196
+01:09:32,000 --> 01:09:33,001
+Fran Walsh
+Writer/Producer
+
+197
+01:09:33,168 --> 01:09:34,586
+Peter Jackson
+Director/Writer/Producer
+
+198
+01:09:35,420 --> 01:09:37,923
+Fran Walsh
+Writer/Producer
+
+199
+01:09:40,300 --> 01:09:45,305
+Philippa Boyens
+Writer
+
+200
+01:09:53,522 --> 01:09:58,527
+Peter Jackson
+Director/Writer/Producer
+
+201
+01:10:46,324 --> 01:10:50,829
+Philippa Boyens
+Writer
+
+202
+01:10:50,996 --> 01:10:53,331
+Peter Jackson
+Director/Writer/Producer
+
+203
+01:10:55,167 --> 01:11:00,172
+Philippa Boyens
+Writer
+
+204
+01:11:06,511 --> 01:11:07,846
+Peter Jackson
+Director/Writer/Producer
+
+205
+01:11:12,893 --> 01:11:16,688
+Philippa Boyens
+Writer
+
+206
+01:11:19,441 --> 01:11:24,446
+Peter Jackson
+Director/Writer/Producer
+
+207
+01:12:19,584 --> 01:12:24,589
+Philippa Boyens
+Writer
+
+208
+01:12:45,277 --> 01:12:50,282
+Peter Jackson
+Director/Writer/Producer
+
+209
+01:13:24,149 --> 01:13:27,611
+Philippa Boyens
+Writer
+
+210
+01:13:27,777 --> 01:13:32,699
+Peter Jackson
+Director/Writer/Producer
+
+211
+01:13:50,050 --> 01:13:55,055
+Philippa Boyens
+Writer
+
+212
+01:15:40,785 --> 01:15:45,790
+Peter Jackson
+Director/Writer/Producer
+
+213
+01:18:28,786 --> 01:18:30,288
+Philippa Boyens
+Writer
+
+214
+01:18:30,455 --> 01:18:35,460
+Peter Jackson
+Director/Writer/Producer
+
+215
+01:19:16,626 --> 01:19:21,673
+Fran Walsh
+Writer/Producer
+
+216
+01:19:35,270 --> 01:19:40,275
+Peter Jackson
+Director/Writer/Producer
+
+217
+01:22:00,289 --> 01:22:05,336
+Fran Walsh
+Writer/Producer
+
+218
+01:22:08,548 --> 01:22:13,803
+Peter Jackson
+Director/Writer/Producer
+
+219
+01:22:51,132 --> 01:22:56,179
+Fran Walsh
+Writer/Producer
+
+220
+01:23:58,115 --> 01:24:03,120
+Peter Jackson
+Director/Writer/Producer
+
+221
+01:24:21,973 --> 01:24:26,978
+Philippa Boyens
+Writer
+
+222
+01:24:40,616 --> 01:24:45,621
+Peter Jackson
+Director/Writer/Producer
+
+223
+01:25:15,693 --> 01:25:20,698
+Philippa Boyens
+Writer
+
+224
+01:25:48,684 --> 01:25:53,689
+Peter Jackson
+Director/Writer/Producer
+
+225
+01:26:24,220 --> 01:26:25,971
+Fran Walsh
+Writer/Producer
+
+226
+01:26:26,138 --> 01:26:28,015
+Peter Jackson
+Director/Writer/Producer
+
+227
+01:26:34,188 --> 01:26:39,235
+Fran Walsh
+Writer/Producer
+
+228
+01:26:49,745 --> 01:26:54,750
+Philippa Boyens
+Writer
+
+229
+01:26:56,043 --> 01:26:57,962
+Peter Jackson
+Director/Writer/Producer
+
+230
+01:26:58,129 --> 01:27:03,134
+Philippa Boyens
+Writer
+
+231
+01:27:04,093 --> 01:27:09,098
+Peter Jackson
+Director/Writer/Producer
+
+232
+01:27:44,133 --> 01:27:49,138
+Philippa Boyens
+Writer
+
+233
+01:28:03,903 --> 01:28:08,407
+Peter Jackson
+Director/Writer/Producer
+
+234
+01:28:18,125 --> 01:28:22,546
+Philippa Boyens
+Writer
+
+235
+01:28:24,423 --> 01:28:27,301
+Peter Jackson
+Director/Writer/Producer
+
+236
+01:28:27,468 --> 01:28:30,763
+Philippa Boyens
+Writer
+
+237
+01:28:31,222 --> 01:28:36,227
+Peter Jackson
+Director/Writer/Producer
+
+238
+01:29:08,092 --> 01:29:10,678
+Fran Walsh
+Writer/Producer
+
+239
+01:29:26,068 --> 01:29:31,073
+Peter Jackson
+Director/Writer/Producer
+
+240
+01:30:21,832 --> 01:30:26,837
+Philippa Boyens
+Writer
+
+241
+01:30:37,640 --> 01:30:42,645
+Peter Jackson
+Director/Writer/Producer
+
+242
+01:30:49,360 --> 01:30:54,365
+Philippa Boyens
+Writer
+
+243
+01:31:26,313 --> 01:31:31,318
+Peter Jackson
+Director/Writer/Producer
+
+244
+01:32:04,393 --> 01:32:09,314
+Philippa Boyens
+Writer
+
+245
+01:32:33,589 --> 01:32:38,594
+Peter Jackson
+Director/Writer/Producer
+
+246
+01:32:53,817 --> 01:32:58,822
+Philippa Boyens
+Writer
+
+247
+01:33:12,002 --> 01:33:17,007
+Peter Jackson
+Director/Writer/Producer
+
+248
+01:33:40,030 --> 01:33:45,035
+Philippa Boyens
+Writer
+
+249
+01:33:54,878 --> 01:33:59,550
+Peter Jackson
+Director/Writer/Producer
+
+250
+01:34:06,682 --> 01:34:11,562
+Fran Walsh
+Writer/Producer
+
+251
+01:34:13,021 --> 01:34:18,068
+Peter Jackson
+Director/Writer/Producer
+
+252
+01:34:18,610 --> 01:34:23,657
+Philippa Boyens
+Writer
+
+253
+01:34:23,866 --> 01:34:28,912
+Peter Jackson
+Director/Writer/Producer
+
+254
+01:34:31,748 --> 01:34:34,376
+Philippa Boyens
+Writer
+
+255
+01:34:41,717 --> 01:34:46,722
+Peter Jackson
+Director/Writer/Producer
+
+256
+01:34:47,389 --> 01:34:52,394
+Philippa Boyens
+Writer
+
+257
+01:35:14,583 --> 01:35:17,794
+Fran Walsh
+Writer/Producer
+
+258
+01:35:17,961 --> 01:35:22,883
+Philippa Boyens
+Writer
+
+259
+01:35:23,842 --> 01:35:28,847
+Fran Walsh
+Writer/Producer
+
+260
+01:35:30,432 --> 01:35:35,437
+Peter Jackson
+Director/Writer/Producer
+
+261
+01:35:43,445 --> 01:35:48,492
+Philippa Boyens
+Writer
+
+262
+01:35:50,452 --> 01:35:53,622
+Peter Jackson
+Director/Writer/Producer
+
+263
+01:35:53,789 --> 01:35:56,833
+Philippa Boyens
+Writer
+
+264
+01:35:58,961 --> 01:36:04,007
+Peter Jackson
+Director/Writer/Producer
+
+265
+01:36:16,603 --> 01:36:21,858
+Fran Walsh
+Writer/Producer
+
+266
+01:36:36,790 --> 01:36:41,795
+Peter Jackson
+Director/Writer/Producer
+
+267
+01:36:42,296 --> 01:36:44,840
+Fran Walsh
+Writer/Producer
+
+268
+01:36:45,048 --> 01:36:50,053
+Peter Jackson
+Director/Writer/Producer
+
+269
+01:38:50,173 --> 01:38:55,178
+Fran Walsh
+Writer/Producer
+
+270
+01:40:28,480 --> 01:40:33,485
+Philippa Boyens
+Writer
+
+271
+01:40:55,840 --> 01:41:00,845
+Peter Jackson
+Director/Writer/Producer
+
+272
+01:41:56,651 --> 01:42:01,281
+Fran Walsh
+Writer/Producer
+
+273
+01:42:17,047 --> 01:42:22,052
+Peter Jackson
+Director/Writer/Producer
+
+274
+01:42:30,644 --> 01:42:35,649
+Philippa Boyens
+Writer
+
+275
+01:42:41,363 --> 01:42:46,409
+Peter Jackson
+Director/Writer/Producer
+
+276
+01:42:57,003 --> 01:43:02,008
+Fran Walsh
+Writer/Producer
+
+277
+01:43:11,434 --> 01:43:13,228
+Peter Jackson
+Director/Writer/Producer
+
+278
+01:43:13,395 --> 01:43:18,400
+Fran Walsh
+Writer/Producer
+
+279
+01:43:33,456 --> 01:43:38,461
+Peter Jackson
+Director/Writer/Producer
+
+280
+01:46:43,599 --> 01:46:43,974
+Peter Jackson
+Director/Writer/Producer
+
+281
+01:46:52,274 --> 01:46:57,363
+Philippa Boyens
+Writer
+
+282
+01:48:34,793 --> 01:48:39,840
+Peter Jackson
+Director/Writer/Producer
+
+283
+01:49:40,526 --> 01:49:44,154
+Philippa Boyens
+Writer
+
+284
+01:49:48,867 --> 01:49:54,081
+Peter Jackson
+Director/Writer/Producer
+
+285
+01:50:44,089 --> 01:50:48,844
+Fran Walsh
+Writer/Producer
+
+286
+01:50:49,094 --> 01:50:54,224
+Philippa Boyens
+Writer
+
+287
+01:50:57,394 --> 01:51:02,482
+Peter Jackson
+Director/Writer/Producer
+
+288
+01:51:54,951 --> 01:51:57,287
+Philippa Boyens
+Writer
+
+289
+01:52:30,821 --> 01:52:35,409
+Fran Walsh
+Writer/Producer
+
+290
+01:52:45,919 --> 01:52:50,882
+Peter Jackson
+Director/Writer/Producer
+
+291
+01:53:05,897 --> 01:53:10,861
+Philippa Boyens
+Writer
+
+292
+01:53:21,371 --> 01:53:26,585
+Peter Jackson
+Director/Writer/Producer
+
+293
+01:53:42,976 --> 01:53:48,106
+Philippa Boyens
+Writer
+
+294
+01:53:50,484 --> 01:53:55,530
+Peter Jackson
+Director/Writer/Producer
+
+295
+01:55:00,971 --> 01:55:04,182
+Fran Walsh
+Writer/Producer
+
+296
+01:55:05,976 --> 01:55:10,939
+Philippa Boyens
+Writer
+
+297
+01:55:24,411 --> 01:55:29,374
+Peter Jackson
+Director/Writer/Producer
+
+298
+01:56:42,822 --> 01:56:46,201
+Fran Walsh
+Writer/Producer
+
+299
+01:56:46,409 --> 01:56:51,373
+Peter Jackson
+Director/Writer/Producer
+
+300
+01:59:07,300 --> 01:59:12,388
+Philippa Boyens
+Writer
+
+301
+02:00:02,897 --> 02:00:07,986
+Fran Walsh
+Writer/Producer
+
+302
+02:00:09,445 --> 02:00:14,409
+Philippa Boyens
+Writer
+
+303
+02:00:19,998 --> 02:00:25,044
+Peter Jackson
+Director/Writer/Producer
+
+304
+02:00:32,093 --> 02:00:37,056
+Philippa Boyens
+Writer
+
+305
+02:00:38,141 --> 02:00:40,143
+Fran Walsh
+Writer/Producer
+
+306
+02:00:40,351 --> 02:00:45,315
+Peter Jackson
+Director/Writer/Producer
+
+307
+02:00:46,357 --> 02:00:47,817
+Fran Walsh
+Writer/Producer
+
+308
+02:00:48,026 --> 02:00:52,989
+Peter Jackson
+Director/Writer/Producer
+
+309
+02:00:53,865 --> 02:00:55,992
+Fran Walsh
+Writer/Producer
+
+310
+02:00:59,787 --> 02:01:04,751
+Peter Jackson
+Director/Writer/Producer
+
+311
+02:01:31,444 --> 02:01:33,029
+Fran Walsh
+Writer/Producer
+
+312
+02:01:41,120 --> 02:01:46,125
+Philippa Boyens
+Writer
+
+313
+02:01:55,176 --> 02:01:57,804
+Peter Jackson
+Director/Writer/Producer
+
+314
+02:01:58,012 --> 02:01:59,847
+Philippa Boyens
+Writer
+
+315
+02:02:00,223 --> 02:02:02,433
+Fran Walsh
+Writer/Producer
+
+316
+02:02:02,642 --> 02:02:07,605
+Philippa Boyens
+Writer
+
+317
+02:02:16,281 --> 02:02:21,077
+Peter Jackson
+Director/Writer/Producer
+
+318
+02:03:11,002 --> 02:03:15,048
+Philippa Boyens
+Writer
+
+319
+02:03:19,677 --> 02:03:24,640
+Peter Jackson
+Director/Writer/Producer
+
+320
+02:04:34,544 --> 02:04:37,046
+Fran Walsh
+Writer/Producer
+
+321
+02:04:37,547 --> 02:04:42,510
+Peter Jackson
+Director/Writer/Producer
+
+322
+02:04:50,643 --> 02:04:54,105
+Fran Walsh
+Writer/Producer
+
+323
+02:04:54,564 --> 02:04:59,527
+Peter Jackson
+Director/Writer/Producer
+
+324
+02:05:04,782 --> 02:05:08,828
+Philippa Boyens
+Writer
+
+325
+02:05:09,036 --> 02:05:14,000
+Peter Jackson
+Director/Writer/Producer
+
+326
+02:05:50,369 --> 02:05:55,333
+Philippa Boyens
+Writer
+
+327
+02:06:00,713 --> 02:06:05,760
+Peter Jackson
+Director/Writer/Producer
+
+328
+02:06:17,980 --> 02:06:21,275
+Fran Walsh
+Writer/Producer
+
+329
+02:06:24,278 --> 02:06:29,242
+Philippa Boyens
+Writer
+
+330
+02:06:34,080 --> 02:06:39,126
+Peter Jackson
+Director/Writer/Producer
+
+331
+02:07:20,626 --> 02:07:25,590
+Fran Walsh
+Writer/Producer
+
+332
+02:07:58,164 --> 02:08:03,127
+Peter Jackson
+Director/Writer/Producer
+
+333
+02:09:41,058 --> 02:09:46,021
+Philippa Boyens
+Writer
+
+334
+02:10:33,986 --> 02:10:38,949
+Fran Walsh
+Writer/Producer
+
+335
+02:11:00,387 --> 02:11:05,351
+Philippa Boyens
+Writer
+
+336
+02:11:35,881 --> 02:11:40,845
+Peter Jackson
+Director/Writer/Producer
+
+337
+02:12:07,788 --> 02:12:09,874
+Philippa Boyens
+Writer
+
+338
+02:12:13,794 --> 02:12:18,757
+Peter Jackson
+Director/Writer/Producer
+
+339
+02:13:28,535 --> 02:13:30,537
+Fran Walsh
+Writer/Producer
+
+340
+02:13:31,830 --> 02:13:36,460
+Peter Jackson
+Director/Writer/Producer
+
+341
+02:13:41,632 --> 02:13:45,761
+Fran Walsh
+Writer/Producer
+
+342
+02:13:47,763 --> 02:13:50,933
+Philippa Boyens
+Writer
+
+343
+02:13:51,475 --> 02:13:55,688
+Peter Jackson
+Director/Writer/Producer
+
+344
+02:13:55,896 --> 02:13:58,691
+Philippa Boyens
+Writer
+
+345
+02:14:04,446 --> 02:14:09,410
+Peter Jackson
+Director/Writer/Producer
+
+346
+02:15:48,092 --> 02:15:53,055
+Philippa Boyens
+Writer
+
+347
+02:15:58,936 --> 02:16:04,066
+Peter Jackson
+Director/Writer/Producer
+
+348
+02:16:45,774 --> 02:16:49,736
+Philippa Boyens
+Writer
+
+349
+02:16:52,197 --> 02:16:57,244
+Peter Jackson
+Director/Writer/Producer
+
+350
+02:17:25,981 --> 02:17:31,111
+Philippa Boyens
+Writer
+
+351
+02:17:47,211 --> 02:17:52,299
+Peter Jackson
+Director/Writer/Producer
+
+352
+02:18:11,193 --> 02:18:16,156
+Fran Walsh
+Writer/Producer
+
+353
+02:18:19,284 --> 02:18:23,664
+Peter Jackson
+Director/Writer/Producer
+
+354
+02:18:23,872 --> 02:18:25,415
+Fran Walsh
+Writer/Producer
+
+355
+02:18:29,461 --> 02:18:32,673
+Peter Jackson
+Director/Writer/Producer
+
+356
+02:20:02,262 --> 02:20:07,225
+Philippa Boyens
+Writer
+
+357
+02:20:10,354 --> 02:20:15,317
+Peter Jackson
+Director/Writer/Producer
+
+358
+02:21:28,765 --> 02:21:33,728
+Fran Walsh
+Writer/Producer
+
+359
+02:21:46,741 --> 02:21:51,913
+Philippa Boyens
+Writer
+
+360
+02:22:31,828 --> 02:22:37,000
+Peter Jackson
+Director/Writer/Producer
+
+361
+02:22:52,516 --> 02:22:55,393
+Philippa Boyens
+Writer
+
+362
+02:23:01,233 --> 02:23:05,070
+Peter Jackson
+Director/Writer/Producer
+
+363
+02:23:49,906 --> 02:23:54,828
+Fran Walsh
+Writer/Producer
+
+364
+02:24:00,250 --> 02:24:03,420
+Philippa Boyens
+Writer
+
+365
+02:24:03,670 --> 02:24:08,550
+Fran Walsh
+Writer/Producer
+
+366
+02:24:35,827 --> 02:24:40,540
+Peter Jackson
+Director/Writer/Producer
+
+367
+02:24:52,594 --> 02:24:57,557
+Philippa Boyens
+Writer
+
+368
+02:25:06,441 --> 02:25:11,404
+Peter Jackson
+Director/Writer/Producer
+
+369
+02:25:26,920 --> 02:25:31,883
+Fran Walsh
+Writer/Producer
+
+370
+02:26:08,336 --> 02:26:13,299
+Peter Jackson
+Director/Writer/Producer
+
+371
+02:26:29,524 --> 02:26:30,942
+Philippa Boyens
+Writer
+
+372
+02:26:31,151 --> 02:26:36,114
+Fran Walsh
+Writer/Producer
+
+373
+02:26:39,367 --> 02:26:44,330
+Peter Jackson
+Director/Writer/Producer
+
+374
+02:26:48,460 --> 02:26:53,882
+Philippa Boyens
+Writer
+
+375
+02:26:54,090 --> 02:26:59,345
+Peter Jackson
+Director/Writer/Producer
+
+376
+02:27:23,870 --> 02:27:28,541
+Philippa Boyens
+Writer
+
+377
+02:27:35,048 --> 02:27:40,011
+Peter Jackson
+Director/Writer/Producer
+
+378
+02:27:39,886 --> 02:27:39,928
+D i re cltaoert/Tl; :tzcr|/(Fs:ond u cer
+
+379
+02:27:54,859 --> 02:27:59,823
+Fran Walsh
+Writer/Producer
+
+380
+02:28:03,952 --> 02:28:05,995
+Philippa Boyens
+Writer
+
+381
+02:28:07,789 --> 02:28:12,752
+Fran Walsh
+Writer/Producer
+
+382
+02:28:52,709 --> 02:28:57,672
+Peter Jackson
+Director/Writer/Producer
+
+383
+02:29:38,338 --> 02:29:43,301
+Fran Walsh
+Writer/Producer
+
+384
+02:29:53,728 --> 02:29:58,566
+Peter Jackson
+Director/Writer/Producer
+
+385
+02:32:22,752 --> 02:32:27,590
+Fran Walsh
+Writer/Producer
+
+386
+02:32:29,592 --> 02:32:34,555
+Peter Jackson
+Director/Writer/Producer
+
+387
+02:35:04,080 --> 02:35:08,834
+Fran Walsh
+Writer/Producer
+
+388
+02:35:33,025 --> 02:35:37,989
+Peter Jackson
+Director/Writer/Producer
+
+389
+02:37:47,868 --> 02:37:52,832
+Fran Walsh
+Writer/Producer
+
+390
+02:38:00,297 --> 02:38:04,885
+Peter Jackson
+Director/Writer/Producer
+
+391
+02:38:06,887 --> 02:38:08,848
+Fran Walsh
+Writer/Producer
+
+392
+02:38:09,056 --> 02:38:11,267
+Peter Jackson
+Director/Writer/Producer
+
+393
+02:38:26,740 --> 02:38:31,454
+Fran Walsh
+Writer/Producer
+
+394
+02:38:36,000 --> 02:38:40,963
+Peter Jackson
+Director/Writer/Producer
+
+395
+02:41:06,400 --> 02:41:09,778
+Fran Walsh
+Writer/Producer
+
+396
+02:41:10,696 --> 02:41:15,659
+Philippa Boyens
+Writer
+
+397
+02:41:28,672 --> 02:41:33,636
+Peter Jackson
+Director/Writer/Producer
+
+398
+02:43:31,628 --> 02:43:36,592
+Philippa Boyens
+Writer
+
+399
+02:44:02,451 --> 02:44:04,995
+Fran Walsh
+Writer/Producer
+
+400
+02:44:19,092 --> 02:44:23,639
+Peter Jackson
+Director/Writer/Producer
+
+401
+02:45:00,133 --> 02:45:03,595
+Philippa Boyens
+Writer
+
+402
+02:45:03,804 --> 02:45:07,099
+Peter Jackson
+Director/Writer/Producer
+
+403
+02:45:16,149 --> 02:45:19,278
+Philippa Boyens
+Writer
+
+404
+02:45:22,906 --> 02:45:27,870
+Fran Walsh
+Writer/Producer
+
+405
+02:45:32,124 --> 02:45:37,087
+Philippa Boyens
+Writer
+
+406
+02:45:42,009 --> 02:45:46,972
+Peter Jackson
+Director/Writer/Producer
+
+407
+02:46:04,489 --> 02:46:09,453
+Philippa Boyens
+Writer
+
+408
+02:46:25,093 --> 02:46:27,846
+Peter Jackson
+Director/Writer/Producer
+
+409
+02:46:28,055 --> 02:46:30,098
+Philippa Boyens
+Writer
+
+410
+02:46:37,022 --> 02:46:39,858
+Peter Jackson
+Director/Writer/Producer
+
+411
+02:46:41,401 --> 02:46:45,030
+Philippa Boyens
+Writer
+
+412
+02:47:20,816 --> 02:47:22,359
+Peter Jackson
+Director/Writer/Producer
+
+413
+02:47:28,073 --> 02:47:33,036
+Philippa Boyens
+Writer
+
+414
+02:47:45,007 --> 02:47:47,592
+Peter Jackson
+Director/Writer/Producer
+
+415
+02:47:50,971 --> 02:47:55,934
+Philippa Boyens
+Writer
+
+416
+02:47:57,561 --> 02:48:01,773
+Peter Jackson
+Director/Writer/Producer
+
+417
+02:48:01,982 --> 02:48:05,777
+Philippa Boyens
+Writer
+
+418
+02:48:08,905 --> 02:48:10,949
+Peter Jackson
+Director/Writer/Producer
+
+419
+02:48:11,366 --> 02:48:15,203
+Philippa Boyens
+Writer
+
+420
+02:48:15,412 --> 02:48:18,832
+Peter Jackson
+Director/Writer/Producer
+
+421
+02:51:24,935 --> 02:51:26,895
+Fran Walsh
+Writer/Producer
+
+422
+02:51:28,021 --> 02:51:32,984
+Peter Jackson
+Director/Writer/Producer
+
+423
+02:53:07,329 --> 02:53:12,292
+Philippa Boyens
+Writer
+
+424
+02:54:35,458 --> 02:54:37,043
+Peter Jackson
+Director/Writer/Producer
+
+425
+02:55:00,525 --> 02:55:03,903
+Philippa Boyens
+Writer
+
+426
+02:55:05,738 --> 02:55:10,660
+Peter Jackson
+Director/Writer/Producer
+
+427
+02:55:29,429 --> 02:55:30,889
+Philippa Boyens
+Writer
+
+428
+02:55:31,598 --> 02:55:36,561
+Peter Jackson
+Director/Writer/Producer
+
+429
+02:56:10,261 --> 02:56:14,599
+Philippa Boyens
+Writer
+
+430
+02:56:18,728 --> 02:56:23,358
+Peter Jackson
+Director/Writer/Producer
+
+431
+02:56:49,008 --> 02:56:53,763
+Fran Walsh
+Writer/Producer
+
+432
+02:56:59,352 --> 02:57:01,396
+Peter Jackson
+Director/Writer/Producer
+
+433
+02:57:06,442 --> 02:57:10,113
+Fran Walsh
+Writer/Producer
+
+434
+02:57:10,321 --> 02:57:12,991
+Peter Jackson
+Director/Writer/Producer
+
+435
+02:57:40,476 --> 02:57:45,440
+Fran Walsh
+Writer/Producer
+
+436
+02:57:50,153 --> 02:57:55,116
+Peter Jackson
+Director/Writer/Producer
+
+437
+02:57:56,409 --> 02:57:58,077
+Fran Walsh
+Writer/Producer
+
+438
+02:58:02,915 --> 02:58:07,879
+Philippa Boyens
+Writer
+
+439
+02:58:10,590 --> 02:58:13,051
+Peter Jackson
+Director/Writer/Producer
+
+440
+02:58:13,426 --> 02:58:18,389
+Fran Walsh
+Writer/Producer
+
+441
+02:58:31,694 --> 02:58:36,658
+Philippa Boyens
+Writer
+
+442
+02:58:44,791 --> 02:58:49,754
+Peter Jackson
+Director/Writer/Producer
+
+443
+02:58:58,137 --> 02:59:00,390
+Philippa Boyens
+Writer
+
+444
+02:59:00,598 --> 02:59:05,561
+Peter Jackson
+Director/Writer/Producer
+
+445
+02:59:36,759 --> 02:59:41,723
+Philippa Boyens
+Writer
+
+446
+02:59:49,230 --> 02:59:53,985
+Peter Jackson
+Director/Writer/Producer
+
+447
+03:01:03,930 --> 03:01:08,434
+Fran Walsh
+Writer/Producer
+
+448
+03:01:10,686 --> 03:01:15,650
+Peter Jackson
+Director/Writer/Producer
+
+449
+03:01:22,824 --> 03:01:27,578
+Philippa Boyens
+Writer
+
+450
+03:01:57,775 --> 03:02:02,738
+Peter Jackson
+Director/Writer/Producer
+
+451
+03:02:15,668 --> 03:02:20,631
+Philippa Boyens
+Writer
+
+452
+03:02:24,302 --> 03:02:29,265
+Peter Jackson
+Director/Writer/Producer
+
+453
+03:04:03,275 --> 03:04:08,239
+Fran Walsh
+Writer/Producer
+
+454
+03:04:13,703 --> 03:04:18,666
+Peter Jackson
+Director/Writer/Producer
+
+455
+03:04:41,397 --> 03:04:42,773
+Philippa Boyens
+Writer
+
+456
+03:04:42,982 --> 03:04:46,777
+Peter Jackson
+Director/Writer/Producer
+
+457
+03:05:01,834 --> 03:05:05,755
+Philippa Boyens
+Writer
+
+458
+03:05:06,130 --> 03:05:11,052
+Peter Jackson
+Director/Writer/Producer
+
+459
+03:06:02,144 --> 03:06:07,108
+Philippa Boyens
+Writer
+
+460
+03:06:20,746 --> 03:06:24,291
+Peter Jackson
+Director/Writer/Producer
+
+461
+03:06:24,500 --> 03:06:26,627
+Philippa Boyens
+Writer
+
+462
+03:06:26,836 --> 03:06:30,131
+Peter Jackson
+Director/Writer/Producer
+
+463
+03:06:30,339 --> 03:06:31,423
+Fran Walsh
+Writer/Producer
+
+464
+03:06:31,632 --> 03:06:36,595
+Peter Jackson
+Director/Writer/Producer
+
+465
+03:06:47,314 --> 03:06:52,278
+Philippa Boyens
+Writer
+
+466
+03:07:04,957 --> 03:07:09,920
+Peter Jackson
+Director/Writer/Producer
+
+467
+03:08:12,524 --> 03:08:16,779
+Philippa Boyens
+Writer
+
+468
+03:08:17,196 --> 03:08:18,989
+Peter Jackson
+Director/Writer/Producer
+
+469
+03:08:19,198 --> 03:08:20,616
+Philippa Boyens
+Writer
+
+470
+03:08:20,824 --> 03:08:23,035
+Peter Jackson
+Director/Writer/Producer
+
+471
+03:08:41,095 --> 03:08:42,972
+Philippa Boyens
+Writer
+
+472
+03:08:43,847 --> 03:08:48,519
+Peter Jackson
+Director/Writer/Producer
+
+473
+03:09:36,483 --> 03:09:41,447
+Philippa Boyens
+Writer
+
+474
+03:09:49,204 --> 03:09:54,168
+Peter Jackson
+Director/Writer/Producer
+
+475
+03:10:01,508 --> 03:10:06,472
+Fran Walsh
+Writer/Producer
+
+476
+03:10:39,171 --> 03:10:44,134
+Peter Jackson
+Director/Writer/Producer
+
+477
+03:10:46,553 --> 03:10:51,517
+Philippa Boyens
+Writer
+
+478
+03:11:40,774 --> 03:11:45,737
+Peter Jackson
+Director/Writer/Producer
+
+479
+03:11:58,834 --> 03:12:03,797
+Philippa Boyens
+Writer
+
+480
+03:12:07,885 --> 03:12:12,848
+Fran Walsh
+Writer/Producer
+
+481
+03:12:35,120 --> 03:12:37,623
+Philippa Boyens
+Writer
+
+482
+03:12:38,457 --> 03:12:43,420
+Fran Walsh
+Writer/Producer
+
+483
+03:13:04,816 --> 03:13:09,780
+Peter Jackson
+Director/Writer/Producer
+
+484
+03:14:01,248 --> 03:14:03,041
+Philippa Boyens
+Writer
+
+485
+03:14:09,506 --> 03:14:14,469
+Peter Jackson
+Director/Writer/Producer
+
+486
+03:14:40,912 --> 03:14:45,876
+Fran Walsh
+Writer/Producer
+
+487
+03:14:54,843 --> 03:14:59,598
+Philippa Boyens
+Writer
+
+488
+03:15:05,145 --> 03:15:06,688
+Fran Walsh
+Writer/Producer
+
+489
+03:15:06,897 --> 03:15:11,693
+Peter Jackson
+Director/Writer/Producer
+
+490
+03:16:33,692 --> 03:16:38,655
+Philippa Boyens
+Writer
+
+491
+03:16:40,490 --> 03:16:44,995
+Peter Jackson
+Director/Writer/Producer
+
+492
+03:16:45,203 --> 03:16:50,000
+Philippa Boyens
+Writer
+
+493
+03:16:52,919 --> 03:16:55,255
+Fran Walsh
+Writer/Producer
+
+494
+03:16:57,424 --> 03:17:02,387
+Peter Jackson
+Director/Writer/Producer
+
+495
+03:17:03,930 --> 03:17:08,101
+Philippa Boyens
+Writer
+
+496
+03:17:14,316 --> 03:17:19,279
+Peter Jackson
+Director/Writer/Producer
+
+497
+03:17:30,749 --> 03:17:35,712
+Philippa Boyens
+Writer
+
+498
+03:17:36,797 --> 03:17:41,760
+Peter Jackson
+Director/Writer/Producer
+
+499
+03:18:23,802 --> 03:18:25,053
+Fran Walsh
+Writer/Producer
+
+500
+03:18:25,262 --> 03:18:30,225
+Peter Jackson
+Director/Writer/Producer
+
+501
+03:19:58,313 --> 03:20:03,276
+Fran Walsh
+Writer/Producer
+
+502
+03:20:29,636 --> 03:20:34,599
+Peter Jackson
+Director/Writer/Producer
+
+503
+03:20:40,438 --> 03:20:45,402
+Philippa Boyens
+Writer
+
+504
+03:20:45,986 --> 03:20:47,904
+Fran Walsh
+Writer/Producer
+
+505
+03:20:49,114 --> 03:20:52,200
+Peter Jackson
+Director/Writer/Producer
+
+506
+03:20:55,537 --> 03:21:00,291
+Fran Walsh
+Writer/Producer
+
+507
+03:21:01,501 --> 03:21:05,296
+Peter Jackson
+Director/Writer/Producer
+
+508
+03:21:08,591 --> 03:21:13,555
+Philippa Boyens
+Writer
+
+509
+03:21:15,932 --> 03:21:20,895
+Peter Jackson
+Director/Writer/Producer
+
+510
+03:21:24,858 --> 03:21:29,654
+Philippa Boyens
+Writer
+
+511
+03:21:50,383 --> 03:21:55,346
+Peter Jackson
+Director/Writer/Producer
+
+512
+03:22:34,135 --> 03:22:39,099
+Fran Walsh
+Writer/Producer
+
+513
+03:23:22,684 --> 03:23:27,647
+Philippa Boyens
+Writer
+
+514
+03:23:47,584 --> 03:23:52,547
+Peter Jackson
+Director/Writer/Producer
+
+515
+03:24:31,294 --> 03:24:34,088
+Philippa Boyens
+Writer
+
+516
+03:24:34,631 --> 03:24:39,594
+Fran Walsh
+Writer/Producer
+
+517
+03:24:54,734 --> 03:24:59,697
+Philippa Boyens
+Writer
+
+518
+03:25:01,908 --> 03:25:06,871
+Fran Walsh
+Writer/Producer
+
+519
+03:25:21,678 --> 03:25:26,641
+Philippa Boyens
+Writer
+
+520
+03:25:42,198 --> 03:25:46,411
+Fran Walsh
+Writer/Producer
+
+521
+03:25:47,704 --> 03:25:52,625
+Peter Jackson
+Director/Writer/Producer
+
+522
+03:26:55,688 --> 03:26:57,607
+Philippa Boyens
+Writer
+
+523
+03:27:07,241 --> 03:27:12,205
+Peter Jackson
+Director/Writer/Producer
+
+524
+03:27:47,448 --> 03:27:49,659
+Philippa Boyens
+Writer
+
+525
+03:27:52,453 --> 03:27:54,997
+Peter Jackson
+Director/Writer/Producer
+
+526
+03:27:55,206 --> 03:28:00,169
+Philippa Boyens
+Writer
+
+527
+03:28:10,930 --> 03:28:15,893
+Peter Jackson
+Director/Writer/Producer
+
+528
+03:28:59,145 --> 03:29:01,814
+Philippa Boyens
+Writer
+
+529
+03:29:03,858 --> 03:29:08,821
+Peter Jackson
+Director/Writer/Producer
+
+530
+03:30:26,691 --> 03:30:31,362
+Philippa Boyens
+Writer
+
+531
+03:30:31,571 --> 03:30:34,490
+Peter Jackson
+Director/Writer/Producer
+
+532
+03:30:34,699 --> 03:30:39,662
+Philippa Boyens
+Writer
+
+533
+03:30:52,466 --> 03:30:55,928
+Fran Walsh
+Writer/Producer
+
+534
+03:31:00,391 --> 03:31:05,354
+Peter Jackson
+Director/Writer/Producer
+
+535
+03:31:32,089 --> 03:31:34,091
+Fran Walsh
+Writer/Producer
+
+536
+03:31:34,300 --> 03:31:36,510
+Philippa Boyens
+Writer
+
+537
+03:31:41,807 --> 03:31:46,771
+Peter Jackson
+Director/Writer/Producer
+
+538
+03:32:11,170 --> 03:32:14,298
+Philippa Boyens
+Writer
+
+539
+03:32:35,736 --> 03:32:40,449
+Peter Jackson
+Director/Writer/Producer
+
+540
+03:34:04,492 --> 03:34:09,413
+Philippa Boyens
+Writer
+
+541
+03:34:09,622 --> 03:34:14,835
+Peter Jackson
+Director/Writer/Producer
+
+542
+03:36:16,332 --> 03:36:19,543
+Philippa Boyens
+Writer
+
+543
+03:36:19,793 --> 03:36:24,548
+Peter Jackson
+Director/Writer/Producer
+
+544
+03:37:06,465 --> 03:37:11,387
+Philippa Boyens
+Writer
+
+545
+03:37:48,048 --> 03:37:53,012
+Peter Jackson
+Director/Writer/Producer
+
+546
+03:37:59,143 --> 03:38:04,106
+Philippa Boyens
+Writer
+
+547
+03:38:11,488 --> 03:38:16,452
+Peter Jackson
+Director/Writer/Producer
+
+548
+03:38:44,897 --> 03:38:49,651
+Philippa Boyens
+Writer
+
+549
+03:38:57,367 --> 03:39:02,331
+Peter Jackson
+Director/Writer/Producer
+
+550
+03:40:07,187 --> 03:40:12,151
+Fran Walsh
+Writer/Producer
+
+551
+03:41:56,129 --> 03:42:01,093
+Peter Jackson
+Director/Writer/Producer
+
+552
+03:42:06,598 --> 03:42:09,309
+Fran Walsh
+Writer/Producer
+
+553
+03:42:09,935 --> 03:42:14,898
+Peter Jackson
+Director/Writer/Producer
+
+554
+03:43:05,657 --> 03:43:10,620
+Philippa Boyens
+Writer
+
+555
+03:43:20,922 --> 03:43:25,886
+Peter Jackson
+Director/Writer/Producer
+
+556
+03:43:42,861 --> 03:43:44,112
+Philippa Boyens
+Writer
+
