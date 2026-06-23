@@ -22,13 +22,15 @@ Before you start, these are the instructions for the 1080p Blu-ray. The instruct
 
 ### The Fellowship of the Ring Extended Edition
 
+#### Color Correct
+
 The 1080p version of FOTR released has an incorrect color throughout the whole film. You can watch it perfectly fine, but the colors aren't as they should be.
 
-Per 44rh1n @ https://originaltrilogy.com/topic/44rh1ns-The-Fellowship-of-the-Ring-Extended-Edition-Color-Restoration-Released/id/61952:
+Per 44rh1n @ https://originaltrilogy.com/topic/44rh1ns-The-Fellowship-of-the-Ring-Extended-Edition-Color-Restoration-Released/id/61952/page/1:
 
 > Both the official Blu-ray and Digital-HD releases are affected. Not only does this new master suffer from an ugly green tint throughout the entire course of the film, but it lacks important visual details in the bright highlight and dark shadow areas as well. In addition to these problems, it appears that the original color timing, in many instances, has actually been completely tossed aside; in several areas there are stray power windows (masks used in the color grading process to select certain areas of the frame), and the lack of HSL qualifications (custom selections of specific hue, saturation, and luminance values) that result in a muddier color grade than the original DVD release.
 
-Because of this, it's best to acquire a color-corrected version of this film, the most complete being 44rh1n's "The Fellowship of the Ring" Extended Edition Color Restoration. Which can be acquired by contacting 44rh1n or SnooPac on Original Trilogy and providing evidence that you own the film's Blu-ray. To combine it, the V2 version is recommended, since it's separated like the original Blu-rays.
+Because of this, it's best to acquire a color-corrected version of this film. The most common type of these are versions that color grade it, but the color isn't the only thing wrong, so it's better to get a shot-for-shot regrade. The recommended one being 44rh1n's "The Fellowship of the Ring" Extended Edition Color Restoration. Which can be acquired by contacting 44rh1n or SnooPac on Original Trilogy and providing evidence that you own the film's Blu-ray. To combine it, the V2 version is recommended, since it's separated like the original Blu-rays.
 
 #### Combine
 
